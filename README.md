@@ -1,6 +1,7 @@
 # A1--Linear-Regression
 
 Github: https://github.com/MahiGajjar27/A1--Linear-Regression.git
+
 Medium: https://medium.com/@mgajjar/assignment-1-linear-regression-da25b24874a2
 
 Problem Statement: Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet.
